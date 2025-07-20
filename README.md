@@ -1,9 +1,9 @@
 # 📦 Database Backup Utility
 
-[![Node.js CI](https://img.shields.io/github/workflow/status/MB-PieSec/Database-Backup-Utility/Node.js%20CI?style=flat-square)](https://github.com/MB-PieSec/Database-Backup-Utility/actions)
+[![Build Status](https://github.com/MB-PieSec/Database-Backup-Utility/actions/workflows/main.yml/badge.svg)](https://github.com/MB-PieSec/Database-Backup-Utility/actions)
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg?style=flat-square)](https://opensource.org/licenses/ISC)
 [![Issues](https://img.shields.io/github/issues/MB-PieSec/Database-Backup-Utility?style=flat-square)](https://github.com/MB-PieSec/Database-Backup-Utility/issues)
-[![npm version](https://img.shields.io/npm/v/database-backup-utility?style=flat-square)](https://www.npmjs.com/package/database-backup-utility)
+
 
 A professional Node.js CLI tool for backing up MongoDB, MySQL, and PostgreSQL databases to JSON files.  
 Automate your database exports for migration, archiving, or disaster recovery. 🚀
