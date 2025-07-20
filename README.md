@@ -1,10 +1,10 @@
 # 📦 Database Backup Utility
 
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg?style=flat-square)](https://opensource.org/licenses/ISC)
-[![Issues](https://img.shields.io/github/issues/MB-PieSec/Database-Backup-Utility?style=flat-square)](https://github.com/MB-PieSec/Database-Backup-Utility/issues)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+                  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg?style=flat-square)](https://opensource.org/licenses/ISC)
+                  [![Issues](https://img.shields.io/github/issues/MB-PieSec/Database-Backup-Utility?style=flat-square)](https://github.com/MB-PieSec/Database-Backup-Utility/issues)
 
 
 A professional Node.js CLI tool for backing up MongoDB, MySQL, and PostgreSQL databases to JSON files.  
